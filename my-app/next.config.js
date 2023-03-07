@@ -5,5 +5,12 @@ module.exports = {
   // https://zenn.dev/jtakahashi64/articles/a9d2ae3285ceb6
   experimental: {
     appDir: true,
+  },
+
+  images: {
+    domains: ['links.papareact.com'],
   }
 }
+
+
+
